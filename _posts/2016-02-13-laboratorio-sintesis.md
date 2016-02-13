@@ -1,42 +1,31 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: Contacto
-datePublished: '2016-02-13T17:22:45.368Z'
-dateModified: '2016-02-13T17:02:18.176Z'
+description: Home
+datePublished: '2016-02-13T18:12:00.384Z'
+dateModified: '2016-02-13T18:11:52.917Z'
 title: Laboratorio Síntesis
 author: []
+sourcePath: _posts/2016-02-13-laboratorio-sintesis.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-13-laboratorio-sintesis.md
-published: true
 url: laboratorio-sintesis/index.html
 _type: Article
 
 ---
-Dirección:
+Laboratorio Síntesis Química de Centroamérica
 
-37 Calle Oriente No. 804, Col. Panamericana, San Salvador, El Salvador.
+Ofrecemos servicios analíticos de control de calidad en el área farmacéutica. Análisis para registros sanitarios.
 
-Teléfonos:
+El primer laboratorio privado dedicado a la investigación científica en el área de la Química en El Salvador, desde 1996\.
 
-(503) 2286-7885  
-(503)2286-3234
-
-Fax:
-
-(503)2286-7888
-
-Correo Electrónico:
-
-sintesis@sinqumia.com
-
-Servicio a domicilio sin recargo.
+Registrados en el CSSP Nº 519
