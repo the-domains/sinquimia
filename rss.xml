@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Sinquimia]]></title>
-        <description><![CDATA[Sinquimia]]></description>
+        <title><![CDATA[Droguería Sinquimia]]></title>
+        <description><![CDATA[Droguería Sinquimia]]></description>
         <link>https://thegrid.ai/sinquimia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 17:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 18:19:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sinquimia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Laboratorio Síntesis]]></title>
+            <description><![CDATA[<article><h1>Laboratorio Síntesis</h1><p>Laboratorio Síntesis Química de Centroamérica</p></article>]]></description>
+            <link>https://thegrid.ai/sinquimia/laboratorio-sintesis/index.html</link>
+            <guid isPermaLink="false">e4ae7403-c3f9-4ead-9d81-2ffad05d15a7</guid>
+            <pubDate>Sat, 13 Feb 2016 18:12:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Laboratorio Síntesis]]></title>
             <description><![CDATA[<article><h1>Laboratorio Síntesis</h1><p>Dirección:</p></article>]]></description>
             <link>https://thegrid.ai/sinquimia/laboratorio-sintesis/index.html</link>
             <guid isPermaLink="false">9f376c8c-2c9f-4835-a3b7-3d3ff0b5a163</guid>
             <pubDate>Sat, 13 Feb 2016 17:22:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Laboratorio Síntesis]]></title>
-            <description><![CDATA[<article><h1>Laboratorio Síntesis</h1><p>Laboratorio Síntesis Química de Centroamérica</p></article>]]></description>
-            <link>https://thegrid.ai/sinquimia/laboratorio-sintesis/index.html</link>
-            <guid isPermaLink="false">e4ae7403-c3f9-4ead-9d81-2ffad05d15a7</guid>
-            <pubDate>Sat, 13 Feb 2016 17:22:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Laboratorio Síntesis]]></title>
