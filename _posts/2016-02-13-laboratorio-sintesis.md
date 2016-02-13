@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Home
-datePublished: '2016-02-13T18:12:00.384Z'
-dateModified: '2016-02-13T18:11:52.917Z'
+datePublished: '2016-02-13T19:23:51.122Z'
+dateModified: '2016-02-13T19:23:47.546Z'
 title: Laboratorio Síntesis
 author: []
 sourcePath: _posts/2016-02-13-laboratorio-sintesis.md
@@ -22,6 +22,8 @@ url: laboratorio-sintesis/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4efb25fa-c102-47a5-b65f-b15b28078763.png)
+
 Laboratorio Síntesis Química de Centroamérica
 
 Ofrecemos servicios analíticos de control de calidad en el área farmacéutica. Análisis para registros sanitarios.
