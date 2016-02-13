@@ -1,0 +1,28 @@
+name: Sinquimia
+favicon: null
+layout_spectrum: 0.8817489007487893
+typography_spectrum: 0.2599755651317537
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5678283504676074
+  lightness: 0.9445188438985497
+  saturation: 0.07597053167410195
+  rhythmicContrast: 0.24850264634005725
+purpose: []
