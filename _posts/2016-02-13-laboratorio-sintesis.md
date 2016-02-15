@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T17:40:19.418Z'
-dateModified: '2016-02-13T19:30:36.102Z'
-title: ¿Quiénes Somos?
+datePublished: '2016-02-15T17:59:26.952Z'
+dateModified: '2016-02-15T17:59:23.455Z'
+title: Laboratorio Síntesis
 author: []
 sourcePath: _posts/2016-02-13-laboratorio-sintesis.md
 published: true
